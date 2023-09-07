@@ -1,0 +1,21 @@
+#title
+{
+    margin-bottom: 10px;
+    text-align: center;
+    width:215px;
+    color: blue;
+    border:solid black 2px;
+}
+input[type="button"],button
+{
+    text-align: center;
+    width: 100%;
+    color: aliceblue;
+    background-color: black;
+}
+input[type="text"]
+{
+    width: 100%;
+    border: solid black 2px;
+    background-color: white;
+}
